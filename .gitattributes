@@ -1,3 +1,9 @@
+## Git Attribute ##
+core.autocrlf input
+core.eol input
+autocrlt false
+core.whitespace cr-at-eol
+
 ## Unity ##
 
 *.cs diff=csharp text
@@ -53,5 +59,4 @@ AssetBundles/** filter=lfs diff=lfs merge=lfs -text
 *.rns filter=lfs diff=lfs merge=lfs -text
 *.reason filter=lfs diff=lfs merge=lfs -text
 *.lxo filter=lfs diff=lfs merge=lfs -text
-autocrlf = true
 
