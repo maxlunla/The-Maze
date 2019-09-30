@@ -1,9 +1,3 @@
-## Git Attribute ##
-core.autocrlf input
-core.eol input
-autocrlt false
-core.whitespace cr-at-eol
-
 ## Unity ##
 
 *.cs diff=csharp text
