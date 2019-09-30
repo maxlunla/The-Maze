@@ -16,6 +16,8 @@
 AssetBundles/** filter=lfs diff=lfs merge=lfs -text
 
 ## git-lfs ##
++# Auto detect text files and perform LF normalization
+* text=auto
 
 #Image
 *.jpg filter=lfs diff=lfs merge=lfs -text
