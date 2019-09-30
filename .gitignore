@@ -78,9 +78,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
-# CRLF Use
-core.autocrlf input
-core.eol input
-autocrlt false
-core.whitespace cr-at-eol
