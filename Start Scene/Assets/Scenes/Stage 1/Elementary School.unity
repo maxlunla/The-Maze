@@ -2658,6 +2658,26 @@ MonoBehaviour:
   MaxFade: 1
   FadeMinDistance: 0.25
   FadeMaxDistance: 0.35
+--- !u!1 &647727563 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2279269046276848331, guid: 58e880072eaf60c4692d50c8838b6887,
+    type: 3}
+  m_PrefabInstance: {fileID: 80034360}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &647727567
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 647727563}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 3680687292192122401, guid: 58e880072eaf60c4692d50c8838b6887, type: 3}
 --- !u!1 &727770589
 GameObject:
   m_ObjectHideFlags: 0
@@ -3142,6 +3162,46 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &1860568773 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: 58e880072eaf60c4692d50c8838b6887,
+    type: 3}
+  m_PrefabInstance: {fileID: 80034360}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1860568775
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860568773}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 0}
+--- !u!1 &1882090904 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6860961830843091074, guid: 58e880072eaf60c4692d50c8838b6887,
+    type: 3}
+  m_PrefabInstance: {fileID: 80034360}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1882090908
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1882090904}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 7629811779324647873, guid: 58e880072eaf60c4692d50c8838b6887, type: 3}
 --- !u!1 &2051834798
 GameObject:
   m_ObjectHideFlags: 0
