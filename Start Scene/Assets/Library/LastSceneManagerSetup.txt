@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Scenes/Stage 1/Elementary School.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

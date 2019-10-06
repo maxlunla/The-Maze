@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-32.989501953125,"y":-15.440733909606934,"z":0.3846815824508667},"rotation":{"x":0.1874798834323883,"y":-0.6920637488365173,"z":0.19377197325229646,"w":0.6695945262908936},"size":47.23155975341797,"orthographic":false}
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":-0.23619256913661958,"y":0.10933119803667069,"z":-0.026755452156066896,"w":-0.9651686549186707},"size":3.4416584968566896,"orthographic":false}
->>>>>>> parent of e1851de... Complete stage 1
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":-0.23619256913661958,"y":0.10933119803667069,"z":-0.026755452156066896,"w":-0.9651686549186707},"size":3.4416584968566896,"orthographic":false}
->>>>>>> parent of e1851de... Complete stage 1
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1695.0079345703125,"y":66.23287963867188,"z":155.0923309326172},"rotation":{"x":-0.05538560450077057,"y":0.6805337071418762,"z":-0.04790155962109566,"w":-0.729478657245636},"size":2304.1455078125,"orthographic":false}
->>>>>>> parent of fd7742f... Merge branch 'Lab_PC'
-=======
-﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1695.0079345703125,"y":66.23287963867188,"z":155.0923309326172},"rotation":{"x":-0.05538560450077057,"y":0.6805337071418762,"z":-0.04790155962109566,"w":-0.729478657245636},"size":2304.1455078125,"orthographic":false}
->>>>>>> parent of fd7742f... Merge branch 'Lab_PC'
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":false,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-10.422037124633789,"y":1.1841942071914673,"z":-1.8575376272201539},"rotation":{"x":0.0432581901550293,"y":-0.951015293598175,"z":0.26320120692253115,"w":0.15630410611629487},"size":9.590396881103516,"orthographic":false}
