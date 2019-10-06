@@ -16,8 +16,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 43
+<<<<<<< HEAD
     width: 1920
     height: 997
+=======
+    width: 1360
+    height: 685
+>>>>>>> parent of e1851de... Complete stage 1
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
@@ -42,12 +47,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1920
     height: 947
   m_MinSize: {x: 679, y: 494}
   m_MaxSize: {x: 14002, y: 14044}
   vertical: 0
   controlID: 59
+=======
+    width: 1360
+    height: 635
+  m_MinSize: {x: 679, y: 494}
+  m_MaxSize: {x: 14002, y: 14044}
+  vertical: 0
+  controlID: 112
+>>>>>>> parent of e1851de... Complete stage 1
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -63,6 +77,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1495
     y: 0
     width: 425
@@ -73,8 +88,21 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 16}
   - {fileID: 13}
+=======
+    x: 1058
+    y: 0
+    width: 302
+    height: 635
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 14}
+  - {fileID: 12}
+>>>>>>> parent of e1851de... Complete stage 1
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 2
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,13 +120,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 368
     height: 670
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
+=======
+    width: 261
+    height: 356
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+>>>>>>> parent of e1851de... Complete stage 1
   m_Panes:
-  - {fileID: 17}
+  - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &5
@@ -117,15 +153,21 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 670
     width: 1495
     height: 277
+=======
+    y: 356
+    width: 1058
+    height: 279
+>>>>>>> parent of e1851de... Complete stage 1
   m_MinSize: {x: 232, y: 272}
   m_MaxSize: {x: 10002, y: 10022}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 16}
   m_Panes:
-  - {fileID: 15}
-  - {fileID: 20}
+  - {fileID: 16}
+  - {fileID: 21}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &6
@@ -148,8 +190,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
     height: 997
+=======
+    width: 1360
+    height: 685
+>>>>>>> parent of e1851de... Complete stage 1
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -169,7 +216,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1920
+=======
+    width: 1360
+>>>>>>> parent of e1851de... Complete stage 1
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -190,8 +241,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 977
     width: 1920
+=======
+    y: 665
+    width: 1360
+>>>>>>> parent of e1851de... Complete stage 1
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -214,12 +270,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1495
     height: 947
   m_MinSize: {x: 404, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
   controlID: 60
+=======
+    width: 1058
+    height: 635
+  m_MinSize: {x: 404, y: 494}
+  m_MaxSize: {x: 10002, y: 14044}
+  vertical: 1
+  controlID: 58
+>>>>>>> parent of e1851de... Complete stage 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -239,12 +304,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1495
     height: 670
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
   controlID: 61
+=======
+    width: 1058
+    height: 356
+  m_MinSize: {x: 404, y: 222}
+  m_MaxSize: {x: 8004, y: 4022}
+  vertical: 0
+  controlID: 35
+>>>>>>> parent of e1851de... Complete stage 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,18 +334,30 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 368
     y: 0
     width: 1127
     height: 670
+=======
+    x: 261
+    y: 0
+    width: 797
+    height: 356
+>>>>>>> parent of e1851de... Complete stage 1
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
-  m_ActualView: {fileID: 18}
+  m_ActualView: {fileID: 19}
   m_Panes:
-  - {fileID: 18}
   - {fileID: 19}
+<<<<<<< HEAD
   - {fileID: 14}
   - {fileID: 12}
+=======
+  - {fileID: 20}
+  - {fileID: 15}
+  - {fileID: 13}
+>>>>>>> parent of e1851de... Complete stage 1
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &12
@@ -283,6 +369,35 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
+=======
+  m_Script: {fileID: 12141, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 300, y: 360}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Navigation
+    m_Image: {fileID: 7874161543223113035, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1058
+    y: 73
+    width: 300
+    height: 616
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+>>>>>>> parent of e1851de... Complete stage 1
   m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -342,6 +457,7 @@ MonoBehaviour:
     y: 81
     width: 419
     height: 912
+<<<<<<< HEAD
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -368,8 +484,36 @@ MonoBehaviour:
     y: 73
     width: 1125
     height: 656
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 368
+    y: 73
+    width: 1125
+    height: 656
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -391,9 +535,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 743
     width: 1495
     height: 258
+=======
+    y: 429
+    width: 1058
+    height: 260
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -407,21 +557,36 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+=======
+    - Assets/Scenes/Tutorial
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scenes/Tutorial
+>>>>>>> parent of e1851de... Complete stage 1
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Multimedia-02\Desktop\60070018 (DO NOT DELETE )\The
     Maze\Start Scene
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: fc2f0000
     m_LastClickedID: 12284
     m_ExpandedIDs: 00000000fc2f000066300000e0320000063500001a350000c23b0000f23b00002c3d0000fe40000000ca9a3b
+=======
+    scrollPos: {x: 0, y: 332}
+    m_SelectedIDs: 983d0000
+    m_LastClickedID: 15768
+    m_ExpandedIDs: 00000000382e0000a22e00001a3100003e330000523300005a3800008a380000c6390000983d000000ca9a3b
+>>>>>>> parent of e1851de... Complete stage 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +614,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000fc2f000066300000e0320000063500001a350000c23b0000f23b00002c3d0000fe400000
+=======
+    m_ExpandedIDs: 00000000382e0000a22e00001a3100003e330000523300005a3800008a380000c6390000983d0000
+>>>>>>> parent of e1851de... Complete stage 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -476,7 +645,11 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> parent of e1851de... Complete stage 1
     m_ExpandedInstanceIDs: c623000000000000ec3d00006c300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -504,7 +677,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 279
---- !u!114 &16
+--- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -525,10 +698,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1495
     y: 73
     width: 423
     height: 928
+=======
+    x: 1058
+    y: 73
+    width: 300
+    height: 616
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -540,7 +720,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
---- !u!114 &17
+--- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -563,15 +743,26 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
+<<<<<<< HEAD
     width: 368
     height: 651
+=======
+    width: 261
+    height: 337
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: f4f9ffff
       m_LastClickedID: -1548
       m_ExpandedIDs: 5cf2fffff6f9ffff8cfbffff8244000094440000
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 9cf3ffffdcf9ffffcafaffff08fbffff8efbffff
+>>>>>>> parent of e1851de... Complete stage 1
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -595,7 +786,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 58c47dc2265e56d4fb49ac8da21acf64
---- !u!114 &18
+--- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -616,10 +807,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 368
     y: 73
     width: 1125
     height: 651
+=======
+    x: 261
+    y: 73
+    width: 795
+    height: 337
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 6ca0a1f8da39abb4892d31690da3ef16
@@ -631,9 +829,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -32.989502, y: -15.440734, z: 0.38468158}
     speed: 2
     m_Value: {x: -32.989502, y: -15.440734, z: 0.38468158}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of e1851de... Complete stage 1
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -662,6 +866,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.18747988, y: -0.69206375, z: 0.19377197, w: 0.6695945}
     speed: 2
     m_Value: {x: 0.18747939, y: -0.69206196, z: 0.19377147, w: 0.6695928}
@@ -669,6 +874,15 @@ MonoBehaviour:
     m_Target: 47.23156
     speed: 2
     m_Value: 45.197666
+=======
+    m_Target: {x: -0.23619257, y: 0.1093312, z: -0.026755452, w: -0.96516865}
+    speed: 2
+    m_Value: {x: -0.23619181, y: 0.10933085, z: -0.026755366, w: -0.96516556}
+  m_Size:
+    m_Target: 3.4416585
+    speed: 2
+    m_Value: 3.4416585
+>>>>>>> parent of e1851de... Complete stage 1
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -686,14 +900,19 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.093004085, y: -0.40818375, z: 0.04225781, w: -0.9073923}
   m_LastSceneViewOrtho: 0
+=======
+  m_LastSceneViewRotation: {x: 0.13608204, y: -0.27051464, z: 0.0896, w: 0.9489152}
+  m_LastSceneViewOrtho: 1
+>>>>>>> parent of e1851de... Complete stage 1
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_SceneVisActive: 1
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
---- !u!114 &19
+--- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -714,10 +933,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 368
     y: 73
     width: 1125
     height: 651
+=======
+    x: 261
+    y: 73
+    width: 795
+    height: 337
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -730,10 +956,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -562.5
     m_HBaseRangeMax: 562.5
     m_VBaseRangeMin: -317
     m_VBaseRangeMax: 317
+=======
+    m_HBaseRangeMin: -397.5
+    m_HBaseRangeMax: 397.5
+    m_VBaseRangeMin: -160
+    m_VBaseRangeMax: 160
+>>>>>>> parent of e1851de... Complete stage 1
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -751,30 +984,48 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 1125
       height: 634
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 562.5, y: 317}
+=======
+      width: 795
+      height: 320
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 397.5, y: 160}
+>>>>>>> parent of e1851de... Complete stage 1
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -562.5
       y: -317
       width: 1125
       height: 634
+=======
+      x: -397.5
+      y: -160
+      width: 795
+      height: 320
+>>>>>>> parent of e1851de... Complete stage 1
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1125, y: 651}
+=======
+  m_LastWindowPixelSize: {x: 795, y: 337}
+>>>>>>> parent of e1851de... Complete stage 1
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
---- !u!114 &20
+--- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -796,7 +1047,13 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 743
     width: 1495
     height: 258
+=======
+    y: 436
+    width: 1059
+    height: 253
+>>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
