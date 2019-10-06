@@ -17,8 +17,13 @@ MonoBehaviour:
     x: 0
     y: 43
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 997
+=======
+    width: 1360
+    height: 685
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     width: 1360
     height: 685
@@ -48,6 +53,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 947
   m_MinSize: {x: 679, y: 494}
@@ -55,12 +61,17 @@ MonoBehaviour:
   vertical: 0
   controlID: 59
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     width: 1360
     height: 635
   m_MinSize: {x: 679, y: 494}
   m_MaxSize: {x: 14002, y: 14044}
   vertical: 0
   controlID: 112
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
 --- !u!114 &3
 MonoBehaviour:
@@ -77,6 +88,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 1495
     y: 0
@@ -97,6 +109,16 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
+=======
+    x: 1058
+    y: 0
+    width: 302
+    height: 635
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+>>>>>>> parent of e1851de... Complete stage 1
   - {fileID: 17}
   - {fileID: 14}
   - {fileID: 12}
@@ -121,17 +143,23 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 368
     height: 670
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     width: 261
     height: 356
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_Panes:
   - {fileID: 18}
@@ -154,9 +182,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 670
     width: 1495
     height: 277
+=======
+    y: 356
+    width: 1058
+    height: 279
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     y: 356
     width: 1058
@@ -191,8 +225,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
     height: 997
+=======
+    width: 1360
+    height: 685
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     width: 1360
     height: 685
@@ -217,7 +256,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1920
+=======
+    width: 1360
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     width: 1360
 >>>>>>> parent of e1851de... Complete stage 1
@@ -242,8 +285,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 977
     width: 1920
+=======
+    y: 665
+    width: 1360
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     y: 665
     width: 1360
@@ -271,6 +319,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1495
     height: 947
   m_MinSize: {x: 404, y: 494}
@@ -278,12 +327,17 @@ MonoBehaviour:
   vertical: 1
   controlID: 60
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     width: 1058
     height: 635
   m_MinSize: {x: 404, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
   controlID: 58
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
 --- !u!114 &10
 MonoBehaviour:
@@ -305,12 +359,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1495
     height: 670
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
   controlID: 61
+=======
+    width: 1058
+    height: 356
+  m_MinSize: {x: 404, y: 222}
+  m_MaxSize: {x: 8004, y: 4022}
+  vertical: 0
+  controlID: 35
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     width: 1058
     height: 356
@@ -335,15 +398,21 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 368
     y: 0
     width: 1127
     height: 670
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     x: 261
     y: 0
     width: 797
     height: 356
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
@@ -351,9 +420,12 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 19}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 14}
   - {fileID: 12}
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   - {fileID: 20}
   - {fileID: 15}
   - {fileID: 13}
@@ -458,6 +530,7 @@ MonoBehaviour:
     width: 419
     height: 912
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -484,6 +557,8 @@ MonoBehaviour:
     y: 73
     width: 1125
     height: 656
+=======
+>>>>>>> parent of e1851de... Complete stage 1
 =======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
@@ -536,9 +611,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 743
     width: 1495
     height: 258
+=======
+    y: 429
+    width: 1058
+    height: 260
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     y: 429
     width: 1058
@@ -558,11 +639,19 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets
+=======
+    - Assets/Scenes/Tutorial
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scenes/Tutorial
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     - Assets/Scenes/Tutorial
   m_ViewMode: 1
@@ -577,15 +666,21 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: fc2f0000
     m_LastClickedID: 12284
     m_ExpandedIDs: 00000000fc2f000066300000e0320000063500001a350000c23b0000f23b00002c3d0000fe40000000ca9a3b
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     scrollPos: {x: 0, y: 332}
     m_SelectedIDs: 983d0000
     m_LastClickedID: 15768
     m_ExpandedIDs: 00000000382e0000a22e00001a3100003e330000523300005a3800008a380000c6390000983d000000ca9a3b
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -615,7 +710,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000fc2f000066300000e0320000063500001a350000c23b0000f23b00002c3d0000fe400000
+=======
+    m_ExpandedIDs: 00000000382e0000a22e00001a3100003e330000523300005a3800008a380000c6390000983d0000
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     m_ExpandedIDs: 00000000382e0000a22e00001a3100003e330000523300005a3800008a380000c6390000983d0000
 >>>>>>> parent of e1851de... Complete stage 1
@@ -649,6 +748,9 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 0
 =======
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
     m_ExpandedInstanceIDs: c623000000000000ec3d00006c300000
     m_RenameOverlay:
@@ -699,15 +801,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1495
     y: 73
     width: 423
     height: 928
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     x: 1058
     y: 73
     width: 300
     height: 616
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -744,8 +852,13 @@ MonoBehaviour:
     x: 0
     y: 73
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 368
     height: 651
+=======
+    width: 261
+    height: 337
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     width: 261
     height: 337
@@ -755,9 +868,15 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: f4f9ffff
       m_LastClickedID: -1548
       m_ExpandedIDs: 5cf2fffff6f9ffff8cfbffff8244000094440000
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 9cf3ffffdcf9ffffcafaffff08fbffff8efbffff
+>>>>>>> parent of e1851de... Complete stage 1
 =======
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -808,15 +927,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 368
     y: 73
     width: 1125
     height: 651
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     x: 261
     y: 73
     width: 795
     height: 337
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -830,9 +955,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -32.989502, y: -15.440734, z: 0.38468158}
     speed: 2
     m_Value: {x: -32.989502, y: -15.440734, z: 0.38468158}
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of e1851de... Complete stage 1
 =======
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
@@ -867,6 +998,7 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.18747988, y: -0.69206375, z: 0.19377197, w: 0.6695945}
     speed: 2
     m_Value: {x: 0.18747939, y: -0.69206196, z: 0.19377147, w: 0.6695928}
@@ -875,6 +1007,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 45.197666
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     m_Target: {x: -0.23619257, y: 0.1093312, z: -0.026755452, w: -0.96516865}
     speed: 2
     m_Value: {x: -0.23619181, y: 0.10933085, z: -0.026755366, w: -0.96516556}
@@ -882,6 +1016,9 @@ MonoBehaviour:
     m_Target: 3.4416585
     speed: 2
     m_Value: 3.4416585
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_Ortho:
     m_Target: 0
@@ -901,8 +1038,13 @@ MonoBehaviour:
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.093004085, y: -0.40818375, z: 0.04225781, w: -0.9073923}
   m_LastSceneViewOrtho: 0
+=======
+  m_LastSceneViewRotation: {x: 0.13608204, y: -0.27051464, z: 0.0896, w: 0.9489152}
+  m_LastSceneViewOrtho: 1
+>>>>>>> parent of e1851de... Complete stage 1
 =======
   m_LastSceneViewRotation: {x: 0.13608204, y: -0.27051464, z: 0.0896, w: 0.9489152}
   m_LastSceneViewOrtho: 1
@@ -934,15 +1076,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 368
     y: 73
     width: 1125
     height: 651
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     x: 261
     y: 73
     width: 795
     height: 337
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
@@ -957,15 +1105,21 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -562.5
     m_HBaseRangeMax: 562.5
     m_VBaseRangeMin: -317
     m_VBaseRangeMax: 317
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     m_HBaseRangeMin: -397.5
     m_HBaseRangeMax: 397.5
     m_VBaseRangeMin: -160
     m_VBaseRangeMax: 160
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -985,10 +1139,17 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1125
       height: 634
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 562.5, y: 317}
+=======
+      width: 795
+      height: 320
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 397.5, y: 160}
+>>>>>>> parent of e1851de... Complete stage 1
 =======
       width: 795
       height: 320
@@ -1002,22 +1163,32 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -562.5
       y: -317
       width: 1125
       height: 634
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
       x: -397.5
       y: -160
       width: 795
       height: 320
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1125, y: 651}
+=======
+  m_LastWindowPixelSize: {x: 795, y: 337}
+>>>>>>> parent of e1851de... Complete stage 1
 =======
   m_LastWindowPixelSize: {x: 795, y: 337}
 >>>>>>> parent of e1851de... Complete stage 1
@@ -1048,10 +1219,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 743
     width: 1495
     height: 258
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     y: 436
     width: 1059
     height: 253

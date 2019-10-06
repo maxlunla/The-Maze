@@ -121,6 +121,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &67383366
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2547,12 +2548,16 @@ Light:
 =======
 --- !u!1001 &86418801
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+--- !u!1001 &86418801
+>>>>>>> parent of e1851de... Complete stage 1
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Name
@@ -2595,6 +2600,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -4584141467972674908, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
         type: 3}
+=======
+    - target: {fileID: -927199367670048503, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
+        type: 3}
+      propertyPath: m_Name
+      value: School Scene
+      objectReference: {fileID: 0}
+    - target: {fileID: -4584141467972674908, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
+        type: 3}
+>>>>>>> parent of e1851de... Complete stage 1
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: f5283526837da4246a5c6ad4574e6b11, type: 2}
@@ -2640,8 +2654,11 @@ PrefabInstance:
       value: 0.7071068
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     - target: {fileID: -4216859302048453862, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
         type: 3}
 >>>>>>> parent of e1851de... Complete stage 1
@@ -2653,8 +2670,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     - target: {fileID: -4216859302048453862, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2691,6 +2711,7 @@ PrefabInstance:
       propertyPath: EnableLinearMovement
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 11400002, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: _trackingOriginType
       value: 1
@@ -2711,6 +2732,8 @@ GameObject:
 --- !u!114 &473236262
 MonoBehaviour:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
     - target: {fileID: -4216859302048453862, guid: 19dac0cf734fb4849bc0b6ef3167cdb6,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -2772,11 +2795,15 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &604316903
 Transform:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 473236260}
   m_Enabled: 1
@@ -2801,6 +2828,8 @@ GameObject:
 --- !u!64 &647727567
 MeshCollider:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 604316902}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -2182, y: 221.32262, z: -100.096436}
@@ -2811,11 +2840,15 @@ MeshCollider:
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!108 &604316904
 Light:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 647727563}
   m_Material: {fileID: 0}
@@ -2829,6 +2862,10 @@ Light:
 =======
   m_GameObject: {fileID: 604316902}
   m_Enabled: 1
+=======
+  m_GameObject: {fileID: 604316902}
+  m_Enabled: 1
+>>>>>>> parent of e1851de... Complete stage 1
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 0.735849, g: 0.70461017, b: 0.70461017, a: 1}
@@ -2882,6 +2919,9 @@ Light:
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!1 &807907577
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
 GameObject:
   m_ObjectHideFlags: 0
@@ -2891,10 +2931,17 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 727770590}
   - component: {fileID: 727770591}
   m_Layer: 0
   m_Name: Spot Light (3)
+=======
+  - component: {fileID: 807907579}
+  - component: {fileID: 807907578}
+  m_Layer: 0
+  m_Name: Spot Light
+>>>>>>> parent of e1851de... Complete stage 1
 =======
   - component: {fileID: 807907579}
   - component: {fileID: 807907578}
@@ -2907,8 +2954,13 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &727770590
 Transform:
+=======
+--- !u!108 &807907578
+Light:
+>>>>>>> parent of e1851de... Complete stage 1
 =======
 --- !u!108 &807907578
 Light:
@@ -2917,6 +2969,7 @@ Light:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 727770589}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
@@ -2929,6 +2982,8 @@ Light:
 --- !u!108 &727770591
 Light:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 807907577}
   m_Enabled: 1
   serializedVersion: 9
@@ -2985,11 +3040,15 @@ Light:
   m_ShadowAngle: 0
 --- !u!4 &807907579
 Transform:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 727770589}
   m_Enabled: 1
@@ -3047,6 +3106,8 @@ Transform:
   m_ShadowAngle: 0
 --- !u!1 &1107043163
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 807907577}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -60.338867, y: 221.32262, z: -100.096436}
@@ -3056,6 +3117,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &906719181
+<<<<<<< HEAD
 >>>>>>> parent of e1851de... Complete stage 1
 GameObject:
   m_ObjectHideFlags: 0
@@ -3089,10 +3151,14 @@ Light:
 --- !u!81 &906719182
 AudioListener:
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+GameObject:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1107043163}
   m_Enabled: 1
@@ -3156,10 +3222,27 @@ Transform:
 --- !u!20 &906719183
 Camera:
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 906719184}
+  - component: {fileID: 906719183}
+  - component: {fileID: 906719182}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &906719182
+AudioListener:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1107043163}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
@@ -3224,10 +3307,17 @@ AudioSource:
 --- !u!4 &906719184
 Transform:
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+  m_GameObject: {fileID: 906719181}
+  m_Enabled: 1
+--- !u!20 &906719183
+Camera:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1453349832}
   m_Enabled: 1
@@ -3332,10 +3422,52 @@ Transform:
 --- !u!1 &1142532667
 >>>>>>> parent of e1851de... Complete stage 1
 GameObject:
+=======
+  m_GameObject: {fileID: 906719181}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 5000
+  field of view: 27.4
+  orthographic: 0
+  orthographic size: 326.81174
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &906719184
+Transform:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
@@ -3375,10 +3507,23 @@ Light:
 --- !u!4 &1142532668
 Transform:
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+  m_GameObject: {fileID: 906719181}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -151.8, y: 141, z: 54}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!1 &1142532667
+GameObject:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1577146236}
   m_Enabled: 1
@@ -3460,10 +3605,26 @@ GameObject:
 --- !u!108 &1142532669
 Light:
 >>>>>>> parent of e1851de... Complete stage 1
+=======
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1142532668}
+  - component: {fileID: 1142532669}
+  m_Layer: 0
+  m_Name: Spot Light (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1142532668
+Transform:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 6
   m_Component:
@@ -3478,10 +3639,23 @@ Light:
   m_IsActive: 1
 --- !u!4 &1773357642
 Transform:
+=======
+  m_GameObject: {fileID: 1142532667}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 693, y: 201, z: -100.096436}
+  m_LocalScale: {x: 1, y: 1, z: 4.858794}
+  m_Children: []
+  m_Father: {fileID: 1872788710}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!108 &1142532669
+Light:
+>>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1773357641}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -41.9, y: 2.89, z: -11.88}
@@ -3493,6 +3667,8 @@ Transform:
 --- !u!108 &1773357643
 Light:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 1142532667}
   m_Enabled: 1
   serializedVersion: 9
@@ -3549,11 +3725,15 @@ Light:
   m_ShadowAngle: 0
 --- !u!1 &1658406727
 GameObject:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1773357641}
   m_Enabled: 1
@@ -3618,6 +3798,8 @@ GameObject:
 --- !u!64 &1860568775
 MeshCollider:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1658406728}
@@ -3631,11 +3813,15 @@ MeshCollider:
   m_IsActive: 1
 --- !u!4 &1658406728
 Transform:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1860568773}
   m_Material: {fileID: 0}
@@ -3654,6 +3840,8 @@ GameObject:
 --- !u!64 &1882090908
 MeshCollider:
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 1658406727}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -1040, y: 221.32262, z: -100.096436}
@@ -3664,11 +3852,15 @@ MeshCollider:
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!108 &1658406729
 Light:
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1882090904}
   m_Material: {fileID: 0}
@@ -3682,6 +3874,10 @@ Light:
 =======
   m_GameObject: {fileID: 1658406727}
   m_Enabled: 1
+=======
+  m_GameObject: {fileID: 1658406727}
+  m_Enabled: 1
+>>>>>>> parent of e1851de... Complete stage 1
   serializedVersion: 9
   m_Type: 0
   m_Color: {r: 0.735849, g: 0.70461017, b: 0.70461017, a: 1}
@@ -3735,6 +3931,9 @@ Light:
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!1 &1872788709
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
 GameObject:
   m_ObjectHideFlags: 0
@@ -3744,7 +3943,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2051834799}
+=======
+  - component: {fileID: 1872788710}
+>>>>>>> parent of e1851de... Complete stage 1
 =======
   - component: {fileID: 1872788710}
 >>>>>>> parent of e1851de... Complete stage 1
@@ -3756,7 +3959,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2051834799
+=======
+--- !u!4 &1872788710
+>>>>>>> parent of e1851de... Complete stage 1
 =======
 --- !u!4 &1872788710
 >>>>>>> parent of e1851de... Complete stage 1
@@ -3765,6 +3972,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2051834798}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -3781,6 +3989,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
 =======
+=======
+>>>>>>> parent of e1851de... Complete stage 1
   m_GameObject: {fileID: 1872788709}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1381.6611, y: 116.67738, z: 171.09644}
@@ -3792,5 +4002,8 @@ Transform:
   - {fileID: 1142532668}
   m_Father: {fileID: 0}
   m_RootOrder: 2
+<<<<<<< HEAD
+>>>>>>> parent of e1851de... Complete stage 1
+=======
 >>>>>>> parent of e1851de... Complete stage 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
