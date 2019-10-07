@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 50
+  controlID: 129
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -407,21 +407,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Start Menu
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes/Start Menu
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Multimedia-02\Desktop\60070018 (DO NOT DELETE )\The
     Maze\Start Scene
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 362}
-    m_SelectedIDs: 58480000
-    m_LastClickedID: 18520
-    m_ExpandedIDs: 0000000028440000ba44000050470000c64900002a4a00008652000094520000b85200003c5400002858000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 22300000
+    m_LastClickedID: 12322
+    m_ExpandedIDs: 0000000022300000b43000004e33000056340000c435000028360000863e0000943e0000b83e00003c4000003044000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -449,7 +449,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000028440000ba44000050470000c64900002a4a00008652000094520000b85200003c54000028580000
+    m_ExpandedIDs: 0000000022300000b43000004e330000c435000028360000863e0000943e0000b83e00003c40000030440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -569,23 +569,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c121000
-      m_LastClickedID: 1053340
-      m_ExpandedIDs: cab9feff74bdfeffdabdfeff0cbefeff16c1feffb8c4feff6ed4feff9cd4feffa6d7feff48dbfeff7aceffff8aceffffa6f1ffffbcffffff547200001c7a0000f44c0c00
+      m_SelectedIDs: a23c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: e2faffffbcffffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Enemy
-        m_OriginalName: Enemy
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 29796
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -631,9 +631,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.009930611, y: 1.6259928, z: 12.883811}
+    m_Target: {x: -34.995243, y: 1.6259918, z: 20.751907}
     speed: 2
-    m_Value: {x: -0.009935902, y: 1.6259927, z: 12.883808}
+    m_Value: {x: -34.995243, y: 1.6259918, z: 20.751907}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -664,11 +664,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
   m_Size:
-    m_Target: 26.79357
+    m_Target: 20.562773
     speed: 2
-    m_Value: 28.056093
+    m_Value: 21.5317
   m_Ortho:
     m_Target: 0
     speed: 2
