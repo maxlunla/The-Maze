@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Stage 1/Elementary School.unity
+- path: Assets/Scenes/Start Menu/Start Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
